@@ -1,0 +1,1 @@
+print("hola mundo me llamo gus y estoy aprendiendo python")
